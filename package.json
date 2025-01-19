@@ -1,0 +1,52 @@
+{
+  "name": "simplybuilder_definitions",
+  "version": "0.0.0",
+  "type": "module",
+  "description": "TypeScript definitions for SimplyBuilder modules",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimplyBuilder/SimplyBuilderDefinitions.git"
+  },
+  "author": "Jamil Services <jamilservices@gmail.com> (https://github.com/jamilservices)",
+  "license": "MIT",
+  "scripts": {
+    "build": "turbo run build",
+    "tests": "turbo run test",
+    "dev": "turbo run dev",
+    "lint": "turbo run lint"
+  },
+  "devDependencies": {
+    "@changesets/cli": "latest",
+    "turbo": "latest",
+    "typescript": "latest",
+    "vitest": "latest"
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/jamilservicos"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/jamilservices"
+    }
+  ],
+  "keywords": [
+    "jamilservicos",
+    "jamilservices",
+    "simply-builder",
+    "simplybuilder",
+    "simply",
+    "builder",
+    "typescript",
+    "definitions",
+    "defs",
+    "sb-defs",
+    "@sb-defs",
+    "type",
+    "types",
+    ".d.ts"
+  ],
+  "private": true,
+  "packageManager": "pnpm@9.15.4+sha512.b2dc20e2fc72b3e18848459b37359a32064663e5627a51e4c74b2c29dd8e8e0491483c3abb40789cfd578bf362fb6ba8261b05f0387d76792ed6e23ea3b1b6a0"
+}

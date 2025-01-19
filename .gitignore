@@ -1,0 +1,17 @@
+*
+
+!.gitignore
+
+!README.md
+!LICENSE
+!AUTHORS
+
+!package.json
+!tsconfig.base.json
+!turbo.json
+
+!vitest.config.ts
+!pnpm-workspace.yaml
+
+!packages
+!packages/.gitignore

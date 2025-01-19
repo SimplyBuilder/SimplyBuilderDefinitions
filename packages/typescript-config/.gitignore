@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!.npmignore
+
+!AUTHORS
+!base.json
+
+!LICENSE
+!package.json

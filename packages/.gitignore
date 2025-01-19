@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+
+!typescript-config
+!typescript-config/.gitignore

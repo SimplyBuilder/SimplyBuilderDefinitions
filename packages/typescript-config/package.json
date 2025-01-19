@@ -1,0 +1,40 @@
+{
+  "name": "@sb-defs/typescript-config",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "files": [
+    "AUTHORS",
+    "base.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://simplybuilder.github.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimplyBuilder/SimplyBuilderDefinitions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SimplyBuilder/SimplyBuilderDefinitions/issues"
+  },
+  "author": "Jamil Services <jamilservices@gmail.com> (https://github.com/jamilservices)",
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/jamilservicos"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/jamilservices"
+    }
+  ],
+  "keywords": [
+    "jamilservicos",
+    "jamilservices",
+    "simply-builder",
+    "simplybuilder",
+    "simply",
+    "builder"
+  ]
+}
